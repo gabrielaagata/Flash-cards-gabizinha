@@ -1,23 +1,23 @@
 criaCartao(
-    'Categoria',
-    'Pergunta?',
-    'Resposta'
+    'Geografia',
+    'Qual o monumento famoso pela sua inclinação?',
+    'Torre de Pisa'
 )
 
 criaCartao(
-    'Categoria',
-    'Pergunta?',
-    'Resposta'
+    'Química',
+    'Qual o nome popular do Cloreto de Sódio?',
+    'Sal de cozinha'
 )
 
 criaCartao(
-    'Categoria',
-    'Pergunta?',
-    'Resposta'
+    'Conhecimentos gerais',
+    'Depois do futebol, qual o esporte mais popular no Brasil?',
+    'Vôlei'
 )
 
 criaCartao(
-    'Categoria',
-    'Pergunta?',
-    'Resposta'
+    'Geografia',
+    'Que cidade brasileira é conhecida por chover todos os dias quase a mesma hora?',
+    'Belém'
 )   
